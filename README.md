@@ -1,4 +1,4 @@
-<img alt="L" height="130" width="130" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-l-de-death-note-32.gif" /><a href="https://github.com/ruDneyMeSsias">
+<img alt="L" height="110" width="130" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-l-de-death-note-32.gif" /><a href="https://github.com/ruDneyMeSsias">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ruDneyMeSsias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruDneyMeSsias&layout=compact&langs_count=7&theme=dark"/>
 ##
 
