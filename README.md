@@ -18,16 +18,18 @@
   
   Busco ampliar o campo de atuação através da
 tecnologia da informação como novo desafio em equipe com enfase em estrair o melhor desempenho possível
+
 <br>
   
   FORMAÇÃO ACADÊMICA INFORMÁTICA:
   
-  Domínio em linguagem de desenvolvimento: Python, Visual Studio, GIT e GITHUB, SQL.
-  
  • Cursando Analise e Desenvolvimento Uninter:    https://www.uninter.com/
+ 
+ • Curso Web Moderno Completo com JavaScript 2022 + Projetos: https://www.udemy.com/
   
  • Alura Cursos de Tecnologia, Cursando – EAD:    https://www.alura.com.br/
-  
+ 
+ 
     • AGILIDADE: PROMOVENDO A TRANSFORMAÇÃO ÁGIL
     
     • Scrum: agilidade em seu projeto
