@@ -16,8 +16,8 @@
   <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 ##
   
-  Busco ampliar o campo de atuação através da
-tecnologia da informação como novo desafio em equipe com enfase em estrair o melhor desempenho possível
+  Busco me desenvolver atráves da tecnologia onde o ambiente é dinamico, desafiador e sem fronteiras. Acredito que atraves da tecnologia é a maneira 
+  de extração de valor e produtividade em todo e qualquer mercado de capital e ou social. 
 
 <br>
   
