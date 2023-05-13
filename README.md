@@ -16,7 +16,7 @@
   <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 ##
   
-  Busco me desenvolver atráves da tecnologia onde o ambiente é dinamico, desafiador e sem fronteiras. Acredito que atraves da tecnologia é a maneira 
+  Busco me desenvolver atráves da tecnologia onde o ambiente é dinamico, desafiador e sem fronteiras. Acredito que atraves da tecnologia é a melhor forma 
   de extração de valor e produtividade em todo e qualquer mercado de capital e ou social. 
 
 <br>
